@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Velocity project creation]">
+  <listeners>
+    <listener class-name="com.globallogic.velocity.automation.reports.GenerateReports"/>
+    <listener class-name="com.globallogic.velocity.automation.listners.SuiteExecutionListener"/>
+  </listeners>
+  <test name="Project Creation(failed)">
+    <classes>
+      <class name="com.globallogic.velocity.automation.tests.TestNgTests">
+        <methods>
+          <include name="suiteSetup"/>
+          <include name="loginToApplication" invocation-numbers="1"/>
+          <include name="SuiteTearDown"/>
+        </methods>
+      </class> <!-- com.globallogic.velocity.automation.tests.TestNgTests -->
+    </classes>
+  </test> <!-- Project Creation(failed) -->
+</suite> <!-- Failed suite [Velocity project creation] -->

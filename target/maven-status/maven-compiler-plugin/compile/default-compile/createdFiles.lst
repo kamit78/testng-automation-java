@@ -1,0 +1,14 @@
+com\globallogic\velocity\automation\Browser$Actions.class
+com\globallogic\velocity\automation\listners\SuiteExecutionListener.class
+com\globallogic\velocity\automation\utils\CSVUtil.class
+com\globallogic\velocity\automation\SeleniumCallBack.class
+com\globallogic\velocity\automation\data\TestData.class
+com\globallogic\velocity\automation\pages\LandingPage.class
+com\globallogic\velocity\automation\utils\ClipBoardUtil.class
+com\globallogic\velocity\automation\Browser.class
+com\globallogic\velocity\automation\utils\ChromeOp.class
+com\globallogic\velocity\automation\Base.class
+com\globallogic\velocity\automation\configs\Configurator.class
+com\globallogic\velocity\automation\reports\GenerateReports.class
+com\globallogic\velocity\automation\Test.class
+com\globallogic\velocity\automation\configs\Configurable.class

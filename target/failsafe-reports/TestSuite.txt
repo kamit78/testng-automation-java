@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 45.49 s <<< FAILURE! - in TestSuite
+loginToApplication(com.globallogic.velocity.automation.tests.TestNgTests)  Time elapsed: 4.628 s  <<< FAILURE!
+java.lang.AssertionError: null[Ljava.lang.StackTraceElement;@5c80cf32
+	at com.globallogic.velocity.automation.tests.TestNgTests.loginToApplication(TestNgTests.java:40)
+
