@@ -1,4 +1,4 @@
-# Automation framework using testng, webdriver using functional interfaces of java 8
+# Automation framework using testng, webdriver with functional interfaces of java 8
 
 This framework binds verification and actions using the consumer functional interface. It uses predictive interface to invoke webdriver
 based on browser.
